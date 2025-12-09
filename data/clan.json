@@ -1,0 +1,51 @@
+[
+    {
+        "id": "jin",
+        "name": "Jin Sakai",
+        "title": "The Ghost",
+        "description": "The last surviving samurai of Clan Sakai. Forced to abandon his code to save his home, he becomes the Ghost of Tsushima.",
+        "image": "assets/jin.jpg"
+    },
+    {
+        "id": "shimura",
+        "name": "Lord Shimura",
+        "title": "Jito of Tsushima",
+        "description": "Jin's uncle and father figure. A strict adherent to the samurai code of bushido, he leads the defense against the Mongol invasion.",
+        "image": "assets/shimura.jpg"
+    },
+    {
+        "id": "yuna",
+        "name": "Yuna",
+        "title": "The Thief",
+        "description": "A resourceful thief who saves Jin's life. She teaches him the ways of the Ghost and becomes his most trusted ally.",
+        "image": "assets/yuna.jpg"
+    },
+    {
+        "id": "masako",
+        "name": "Lady Masako",
+        "title": "Adachi Matriarch",
+        "description": "The last survivor of Clan Adachi. Consumed by vengeance against those who betrayed data slaughtered her family.",
+        "image": "assets/masako.jpg"
+    },
+    {
+        "id": "ishikawa",
+        "name": "Sensei Ishikawa",
+        "title": "The Master Archer",
+        "description": "A legendary but arrogant archer. He mentors Jin in the way of the bow while hunting his wayward student, Tomoe.",
+        "image": "assets/ishikawa.jpg"
+    },
+    {
+        "id": "kenji",
+        "name": "Kenji",
+        "title": "The Sake Merchant",
+        "description": "A merchant with questionable schemes but a good heart. Often gets Jin into trouble while trying to help.",
+        "image": "assets/kenji.jpg"
+    },
+    {
+        "id": "khotun",
+        "name": "Khotun Khan",
+        "title": "The Invader",
+        "description": "Cousin of Kublai Khan. A brilliant and ruthless tactician who studies his enemies to destroy them.",
+        "image": "assets/khotun.jpg"
+    }
+]
