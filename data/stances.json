@@ -1,0 +1,30 @@
+[
+    {
+        "id": "stone",
+        "name": "Stone Stance",
+        "effective_against": "Swordsmen",
+        "description": "The ancestral style of the Sakai clan. Traditional and solid, it excels against opponents wielding swords.",
+        "icon": "assets/icon-stone.png"
+    },
+    {
+        "id": "water",
+        "name": "Water Stance",
+        "effective_against": "Shieldmen",
+        "description": "Fluid and relentless. This style allows the warrior to flow around defenses, perfect for breaking the guard of shielded enemies.",
+        "icon": "assets/icon-water.png"
+    },
+    {
+        "id": "wind",
+        "name": "Wind Stance",
+        "effective_against": "Spearmen",
+        "description": "Fast and evasive. Specifically designed to counter the reach of spears by knocking them aside and closing the distance.",
+        "icon": "assets/icon-wind.png"
+    },
+    {
+        "id": "moon",
+        "name": "Moon Stance",
+        "effective_against": "Brutes",
+        "description": "Powerful and overwhelming. Uses heavy spinning attacks to stagger large, heavily armed opponents.",
+        "icon": "assets/icon-moon.png"
+    }
+]
