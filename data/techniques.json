@@ -1,0 +1,278 @@
+[
+    {
+        "category": "Samurai",
+        "partition": "Deflection",
+        "techniques": [
+            {
+                "name": "Perfect Parry",
+                "description": "Parry at the last possible second to perform a deadly counterattack. Generates Resolve.",
+                "cost": "Default"
+            },
+            {
+                "name": "Perfect Healing Parry",
+                "description": "Recover a moderate amount of health when performing a Perfect Parry.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Deflect Arrows",
+                "description": "Block incoming arrows while holding L1.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Unyielding Sword Parry",
+                "description": "Parry unblockable attacks (blue glint) from Mongol swordsmen.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Unyielding Spear Parry",
+                "description": "Parry unblockable attacks from spearmen.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Resolved Parry",
+                "description": "Gaining resolve by successful parry or perfect parry is increased.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Terrifying Parry",
+                "description": "Perfect Parry has a chance to terrify nearby enemies.",
+                "cost": "1 Technique Point"
+            }
+        ]
+    },
+    {
+        "category": "Samurai",
+        "partition": "Evasion",
+        "techniques": [
+            {
+                "name": "Roll",
+                "description": "Double tap Circle to roll across the ground and evade attacks.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Dodge Slash",
+                "description": "Attack immediately after a dodge to perform a quick counter-strike.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Sprint Strike",
+                "description": "Perform a quick slash while sprinting.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Shoulder Charge",
+                "description": "Ram into enemies while sprinting to knock them back.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Delayed Strike",
+                "description": "Hold quick attack to unleash a delayed, more powerful strike.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Mounted Strike",
+                "description": "Perform a jumping attack from your horse.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Perfect Dodge",
+                "description": "Dodge at the last second to perform a deadly counterattack.",
+                "cost": "1 Technique Point"
+            }
+        ]
+    },
+    {
+        "category": "Samurai",
+        "partition": "Mythic",
+        "techniques": [
+            {
+                "name": "Heavenly Strike",
+                "description": "A quick, unblockable attack that dashes across the battlefield. Costs 1 Resolve.",
+                "cost": "Mythic Tale"
+            },
+            {
+                "name": "Dance of Wrath",
+                "description": "Unleash three consecutive unblockable attacks that deal massive damage. Costs 3 Resolve.",
+                "cost": "Mythic Tale"
+            },
+            {
+                "name": "Way of the Flame",
+                "description": "Ignite your katana with incendiary oil to burn enemies and break their guard.",
+                "cost": "Mythic Tale"
+            },
+            {
+                "name": "Explosive Arrow",
+                "description": "An arrow fitted with a black powder tip that explodes on impact.",
+                "cost": "Mythic Tale"
+            }
+        ]
+    },
+    {
+        "category": "Samurai",
+        "partition": "Exploration",
+        "techniques": [
+            {
+                "name": "Wind of Health",
+                "description": "Guiding Wind tracks Hot Springs.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Wind of Resolve",
+                "description": "Guiding Wind tracks Bamboo Strikes.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Wind of Charms",
+                "description": "Guiding Wind tracks Shinto Shrines.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Wind of Inari",
+                "description": "Guiding Wind tracks Fox Dens.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Wind of Vanity",
+                "description": "Guiding Wind tracks discovering vanity gear.",
+                "cost": "1 Technique Point"
+            }
+        ]
+    },
+    {
+        "category": "Ghost",
+        "partition": "Evolving Tactics",
+        "techniques": [
+            {
+                "name": "Standoff",
+                "description": "Challenge enemies to a duel before combat begins. One hit kill.",
+                "cost": "Default"
+            },
+            {
+                "name": "Standoff Streak",
+                "description": "Challenge two enemies successfully in a Standoff.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Improved Standoff Streak",
+                "description": "Challenge three enemies successfully in a Standoff.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Archery",
+                "description": "Slow down time while aiming with a specialized concentration technique.",
+                "cost": "Renown Level"
+            },
+            {
+                "name": "Concentration",
+                "description": "Briefly slow time while aiming the bow (R3).",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Mental Fortitude",
+                "description": "Reduces cooldown of Concentration by 15%.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Improved Mental Fortitude",
+                "description": "Reduces cooldown of Concentration by 30%.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Assassination",
+                "description": "Quietly kill an unaware enemy.",
+                "cost": "Default"
+            },
+            {
+                "name": "Safe Landing",
+                "description": "Roll just before landing to take no damage from high falls.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Chain Assassination",
+                "description": "Assassinate two targets in quick succession.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Chain Assassination Master",
+                "description": "Assassinate three targets in quick succession.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Shoji Assassination",
+                "description": "Assassinate an enemy through a paper door.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Ghost Stance",
+                "description": "Enter a state of fear-inducing power. Kills enemies in one hit. Charge by killing leaders or 7 enemies without taking damage.",
+                "cost": "Story Unlock"
+            }
+        ]
+    },
+    {
+        "category": "Ghost",
+        "partition": "Ghost Weapons",
+        "techniques": [
+            {
+                "name": "Kunai",
+                "description": "Throw small blades at nearby enemies to stagger them.",
+                "cost": "Renown Level"
+            },
+            {
+                "name": "Hidden Blades",
+                "description": "Throw two additional Kunai.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Serrated Blades",
+                "description": "Kunai deal double damage.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Black Powder Bomb",
+                "description": "Blast that deals damage and staggers enemies.",
+                "cost": "Renown Level"
+            },
+            {
+                "name": "Concussive Blast",
+                "description": "Black Powder Bombs knock down enemies.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Smoke Bomb",
+                "description": "Vanish from sight and leave enemies confused.",
+                "cost": "Renown Level"
+            },
+            {
+                "name": "Blinding Dust",
+                "description": "Smoke Bombs last longer and blind enemies.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Healing Incense",
+                "description": "Smoke Bombs restore some health.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Sticky Bomb",
+                "description": "Adheres to an enemy and explodes after a delay.",
+                "cost": "Renown Level"
+            },
+            {
+                "name": "Guarded Throw",
+                "description": "You are immune to blast damage from your own Sticky Bombs.",
+                "cost": "1 Technique Point"
+            },
+            {
+                "name": "Wind Chime",
+                "description": "Distract guard dogs and enemies.",
+                "cost": "Renown Level"
+            },
+            {
+                "name": "Firecracker",
+                "description": "Throw a firecracker to attract multiple enemies.",
+                "cost": "1 Technique Point"
+            }
+        ]
+    }
+]
